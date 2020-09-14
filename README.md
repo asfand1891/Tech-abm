@@ -5,3 +5,4 @@
 <a href="https://github.com/Tech-abm/Emailcloning"><img title="EMAILCLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-abm&repo=Emailcloning&theme=vision-friendly-dark"></a>
 <p align="center">
 <a href="https://fb.com/Techabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.instagram.com/Techabm"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
