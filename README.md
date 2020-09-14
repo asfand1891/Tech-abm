@@ -2,10 +2,7 @@
 <a href="https://github.com/Tech-abm/Fb-Mafia"><img title="FB-MAFIA" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-abm&repo=Fb-Mafia&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Tech-abm/Seclist"><img title="SECLIST" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-abm&repo=Seclist&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Tech-abm/Import"><img title="IMPORT" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-abm&repo=Import&theme=vision-friendly-dark"></a>
-
-<a href="https://github.com/Tech-abm/Go-to-encrypt
-"><img title="Go-to-encrypt
-" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-abm&repo=Go-to-encrypt
+<a href="https://github.com/Tech-abm/Go-to-encrypt"><img title="Go-to-encrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=Tech-abm&repo=Go-to-encrypt
 &theme=vision-friendly-dark"></a>
 <p align="center">
 <a href="https://fb.com/Techabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
